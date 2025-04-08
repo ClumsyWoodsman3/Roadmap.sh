@@ -11,6 +11,6 @@ Project URL https://roadmap.sh/projects/single-page-cv
  
 
 ## Note 
-I'm a systems/controls guy playing with code. Please dont judge too hard. 
+I'm an Automation/controls guy playing with code. Please dont judge too hard. 
 
 
