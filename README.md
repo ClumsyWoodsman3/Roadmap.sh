@@ -6,7 +6,7 @@ Roadmap.sh Tutorials Root - I'll be placing all solutions here.
 
 ## Tutorials 
  - Basic HTML Website 
- --Project URL https://roadmap.sh/projects/single-page-cv
+ - - Link to tutorials on [Roadmap.sh](https://roadmap.sh/projects/single-page-cv)
 >![CV design Example.](https://assets.roadmap.sh/guest/resume-template-zyl70.png)
 
  
