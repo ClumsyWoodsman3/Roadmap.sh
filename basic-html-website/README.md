@@ -19,7 +19,8 @@ You are not required to style the website, you are only required to create the s
 - Structure in a way that you can easily add styles later.
 - Add SEO meta tags to the website.
 
-- Project Example 
+
+## Project Example 
  ![CV design Example.](https://assets.roadmap.sh/guest/portfolio-design-83lku.png)
 
 
