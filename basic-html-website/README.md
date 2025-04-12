@@ -1,7 +1,5 @@
 # Roadmap.sh Basic HTML Website
-<p>Click below to follow along. 
-<a href="https://roadmap.sh/projects/basic-html-website" target="_blank"></a>
-</p>
+- Link this tutorial on [Roadmap.sh](https://roadmap.sh/projects/basic-html-website)
 <p>Goal of this project is to teach you how to structure a website using HTML i.e. different sections of a website like header, footer, navigation, main content, sidebars etc. Do not style the website, only focus on the structure. Styling will be done in separate projects.</p>
 </blockquote>
 <p>In this project, you are required to create a simple HTML only website with multiple pages. The website should have following pages:</p>
