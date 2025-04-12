@@ -1,42 +1,32 @@
 # Roadmap.sh Basic HTML Website
 - Link this tutorial on [Roadmap.sh](https://roadmap.sh/projects/basic-html-website)
 
-looks like roadmap.sh  is struggling with that link. Let try again
-
-https://roadmap.sh/projects/basic-html-website
-
-https://roadmap.sh/projects/basic-html-website
-
-https://roadmap.sh/projects/basic-html-website
-
-https://roadmap.sh/projects/basic-html-website
-
-
 ## Project Overview
-Goal of this project is to teach you how to structure a website using HTML i.e. different sections of a website like header, footer, navigation, main content, sidebars etc. Do not style the website, only focus on the structure. Styling will be done in separate projects.
+The goal of this project is to teach you how to style a website using CSS. You will take the structure from the previous HTML-only project and apply various CSS techniques to enhance its appearance and responsiveness.
 
-In this project, you are required to create a simple HTML only website with multiple pages. The website should have following pages:
-- Homepage
-- Projects
-- Articles
-- Contact
+In this project, you will style the HTML website structure you created previously in a different project. The focus will be on learning how to use CSS to create responsive layouts, apply color and typography, and enhance the overall design of your website.
 
-## Goals
-The website should have a navigation bar that should be present on all pages and link to all the pages.
-You are not required to style the website, you are only required to create the structure of the website using HTML. Goals of this project are:
+Rough mockups of the website structure for mobile and desktop devices are given below. Do not worry about the design details i.e. colors backgrounds etc at this stage; we are not looking for a beautiful design, but a well-structured and responsive website. Just focus on making the layout same as the mockup and ensuring it looks good on different screen sizes.
 
-- Learn how to create multiple pages in a website.
-- Structure a website using HTML in a semantic way.
-- Structure in a way that you can easily add styles later.
-- Add SEO meta tags to the website.
+## Submission Requirements
+Your submission should include:
+
+A fully styled, responsive website with the same structure as the previous project.
+Consistent use of a chosen color scheme and typography.
+Proper use of CSS techniques like Flexbox, media queries, and the box model.
+A responsive navigation bar and well-styled contact form.
+
+## Bonus Points
+For bonus points, you can:
+
+Use Google Fonts to enhance the typography of your website.
+Look into GitHub Pages or Cloudflare Pages to host your website for free.
+Add support for dark mode using CSS variables.
 
 
 ## Project Example 
- ![CV design Example.](https://assets.roadmap.sh/guest/portfolio-design-83lku.png)
+ ![Portfolio Example.](https://assets.roadmap.sh/guest/portfolio-template-xdhki.png)
 
 
-## Requirements 
- - Semantically correct HTML structure.
- - Multiple pages with a navigation bar.
- - SEO meta tags in the head of each page.
- - Contact page should have a form with fields like name, email, message etc.
+## Take Aways 
+ After completing this project, you will have a solid understanding of how to style a basic HTML website using CSS. You can move on to more advanced topics, such as CSS animations, transitions, and grid layouts, in future projects.
